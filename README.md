@@ -10,4 +10,4 @@ iOS 爆炸动画 Boom Animation
 # License  
 MIT
 
-[image-1]:	./demo.gif
+[image-1]:	https://github.com/afantree/BoomAnimation/blob/master/Snapshots/demo.gif
